@@ -21,6 +21,8 @@
 
 ## 📂 Categorías de los CTFs
 
+<div align="center">
+
 | Categoría                      | Descripción                                                         |
 |-------------------------------|---------------------------------------------------------------------|
 | 🔍 **Recon & Enumeración**     | Escaneos iniciales, reconocimiento de superficie y fingerprinting. |
@@ -30,6 +32,8 @@
 | 📈 **Escalada de Privilegios** | Técnicas en Linux y Windows para obtener privilegios elevados.     |
 | 🧠 **OSINT e Ing. Social**     | Búsqueda de información pública, metadatos, perfiles, etc.         |
 | 🛡️ **Bypass de Defensas**      | Evasión de filtros, firewalls, AV/EDR y validaciones.              |
+
+</div>
 
 ---
 
